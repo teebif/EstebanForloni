@@ -1,0 +1,30 @@
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\obj\Debug\net6.0\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\obj\Debug\net6.0\Proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\obj\Debug\net6.0\Proyecto1.AssemblyInfoInputs.cache
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\obj\Debug\net6.0\Proyecto1.AssemblyInfo.cs
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\obj\Debug\net6.0\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\bin\Debug\net6.0\Proyecto1.exe
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\bin\Debug\net6.0\Proyecto1.deps.json
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\bin\Debug\net6.0\Proyecto1.runtimeconfig.json
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\bin\Debug\net6.0\Proyecto1.dll
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\bin\Debug\net6.0\Proyecto1.pdb
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\obj\Debug\net6.0\Proyecto1.dll
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\obj\Debug\net6.0\refint\Proyecto1.dll
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\obj\Debug\net6.0\Proyecto1.pdb
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\obj\Debug\net6.0\Proyecto1.genruntimeconfig.cache
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\CoderHouse C#\Proyecto1\Proyecto1\obj\Debug\net6.0\ref\Proyecto1.dll
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\obj\Debug\net6.0\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\obj\Debug\net6.0\Proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\obj\Debug\net6.0\Proyecto1.AssemblyInfoInputs.cache
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\obj\Debug\net6.0\Proyecto1.AssemblyInfo.cs
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\obj\Debug\net6.0\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\obj\Debug\net6.0\Proyecto1.dll
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\obj\Debug\net6.0\refint\Proyecto1.dll
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\obj\Debug\net6.0\Proyecto1.pdb
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\bin\Debug\net6.0\Proyecto1.exe
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\bin\Debug\net6.0\Proyecto1.deps.json
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\bin\Debug\net6.0\Proyecto1.runtimeconfig.json
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\bin\Debug\net6.0\Proyecto1.dll
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\bin\Debug\net6.0\Proyecto1.pdb
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\obj\Debug\net6.0\Proyecto1.genruntimeconfig.cache
+C:\Users\tebyf\OneDrive\Escritorio\Archivos\GitHub\1ra entrega final\Esteban-Forloni\Esteban-Forloni\Proyecto1\obj\Debug\net6.0\ref\Proyecto1.dll
