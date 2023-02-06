@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto1.Manejadores
 {
-    internal class Class1
+    internal class ManejadorUsuario
     {
     }
 }

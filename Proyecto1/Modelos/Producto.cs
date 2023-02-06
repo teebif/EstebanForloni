@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Proyecto1.Modelos
 {
-    internal class Class1
+    internal class Producto
     {
+        public int id { get; set; }
+        public string descripciones { get; set; }
+        public int costo { get; set; }
+        public int precioventa { get; set; }
+        public int stock { get; set; }
+        public int idusuario { get; set; }
     }
 }
