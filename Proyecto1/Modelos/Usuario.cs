@@ -5,14 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Proyecto1.Clases
-{     
-    public class User
-        {
-            public int Id { get; set; }
-            public string Name { get; set; } = "";
-            public string Surname { get; set; } = "";
-            public string UserName { get; set; } = "";
-            public string Password { get; set; } = "";
-            public string Email { get; set; } = "";
+{
+    internal class Usuario
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; } 
+            public string Apellido { get; set; }
+            public string NombreUsuario { get; set; } 
+            public string Contraseña { get; set; } 
+            public string Mail { get; set; } 
         }
 }
