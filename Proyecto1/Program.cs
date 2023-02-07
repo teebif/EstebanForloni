@@ -1,23 +1,29 @@
-﻿using System.Data.SqlClient;
-public class Program
-{
-    static void Main(string[] args)
-    {
-        string connectionstring = "Data Source=DESKTOP-HPHJBO6;Initial Catalog=SistemaGestion;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
-        SqlConnection connection = new SqlConnection(connectionstring);
-        
-        SqlCommand comand = new SqlCommand("Select * from Usuario", connection);
-        connection.Open();
-        SqlDataReader reader = comand.ExecuteReader();
-        if (reader.HasRows)
-        {
-            while(reader.Read())
+﻿using Proyecto1.Modelos;
+using System.Data.SqlClient;
+namespace Proyecto1
+{ 
+            internal class Program
             {
-                Console.WriteLine(reader.GetInt64(0)); 
+                static void Main(string[] args)
+                {
+                    Console.WriteLine("Hello, World!");
+
+                    List<Usuarios> usuarios = new List<Usuarios>();
+                    Usuario usuario = new Usuario();
+
+                    usuarios = UsuarioController.obtenerUsuarios();
+                    Console.WriteLine(usuarios[1].Nombre);
+                    usuario = UsuarioController.obtenerUsuario(1);
+                    Console.WriteLine(usuario.Nombre);
+
+
+                    List<Producto> productos = new List<Producto>();
+
+                    productos = ProductoController.obtenerProductos(1);
+                    Console.WriteLine(productos[1].Descripciones);
+
+                    List<ProductoVendido> productosVendidos = new List<ProductoVendido>();
+                    productosVendidos = ProductoVendidoController.obtenerProductosVendidos(1);
+                }
             }
-        }
-
-        connection.Close();
-
-    }
 }
