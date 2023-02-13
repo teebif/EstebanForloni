@@ -21,7 +21,7 @@ namespace Proyecto1
                 var parameter = new SqlParameter();
                 parameter.ParameterName = "IdUsuario";
                 parameter.SqlDbType = SqlDbType.BigInt;
-                parameter.Value = IdUsuario;
+                parameter.Value = idusuario;
 
                 conn.Open();
 
@@ -33,12 +33,12 @@ namespace Proyecto1
                     {
                         Producto producto = new Producto();
 
-                        producto.Id = reader.GetInt64(0);
-                        producto.Descripciones = reader.GetString(1);
-                        producto.Costo = reader.GetDecimal(2);
-                        producto.PrecioVenta = reader.GetDecimal(3);
-                        producto.Stock = reader.GetInt32(4);
-                        producto.IdUsuario = reader.GetInt64(5);
+                        producto.id = (int)reader.GetInt64(0);
+                        producto.descripciones = reader.GetString(1);
+                        producto.costo = (int)reader.GetDecimal(2);
+                        producto.precioventa = (int)reader.GetDecimal(3);
+                        producto.stock = reader.GetInt32(4);
+                        producto.idusuario = (int)reader.GetInt64(5);
 
                         ventas.Add(producto);
                     }
