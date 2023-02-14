@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 
 namespace Proyecto1
 {
-    internal class ProductoVendidoController
+    public class ProductoVendidoController
     {
         public static string cadenaConexion = "Data Source=DESKTOP-HPHJBO6;Initial Catalog=SistemaGestion;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 

@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto1.Controladores
 {
-    internal class ProductoController
+    public class ProductoController
     {
         public static string cadenaConexion = "Data Source=DESKTOP-HPHJBO6;Initial Catalog=SistemaGestion;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 

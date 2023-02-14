@@ -1,4 +1,4 @@
-﻿using DocumentFormat.OpenXml.Office2010.Excel;
+﻿
 using Proyecto1.Clases;
 using Proyecto1.Modelos;
 using System.Data;
@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 
 namespace Proyecto1
 {
-    internal class LoginController
+    public class LoginController
     {
         public static string LogIn(string usuarioNombre, string usuarioPass)
         {
@@ -33,7 +33,7 @@ namespace Proyecto1
 
                 if (reader.HasRows)
                 {
-                    Usuario usuario = new Usuario();
+                    Usuario Usuario = new Usuario();
 
                     reader.Read();
 
