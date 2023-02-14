@@ -1,6 +1,5 @@
 ﻿using DocumentFormat.OpenXml.Office2010.Excel;
 using Proyecto1.Clases;
-using Proyecto1.Controladores;
 using Proyecto1.Modelos;
 using System.Data;
 using System.Data.SqlClient;
@@ -22,11 +21,11 @@ namespace Proyecto1
 
             List<Producto> productos = new List<Producto>();
 
-            productos = ProductoController.obtenerProductos(1);
+            productos = ProductoCon.obtenerProductos(1);
             Console.WriteLine(productos[1].descripciones);
 
             List<ProductoVendido> productosVendidos = new List<ProductoVendido>();
-            productosVendidos = ProductoVendidoController.obtenerProductosVendidos(1);
+            productosVendidos = ProductoVendidoCon.obtenerProductosVendidos(1);
         }
     }
 }

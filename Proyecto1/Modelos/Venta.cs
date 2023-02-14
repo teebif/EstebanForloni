@@ -10,6 +10,7 @@ namespace Proyecto1.Modelos
     {
         public int id { get; set; }
         public string comentarios { get; set; }
+        public int idusuario { get; set; }
 
     }
 }
